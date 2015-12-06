@@ -1,7 +1,7 @@
 ElixirStructCompileOrderIssue
 =============================
 
-Simplified test case for a strange bug(?) in Elixir compiler (submitted as [a issue in elixir-lang/elixir](https://github.com/elixir-lang/elixir/issues/4055))
+Simplified test case for a strange bug(?) in Elixir compiler (submitted as [an issue in elixir-lang/elixir](https://github.com/elixir-lang/elixir/issues/4055))
 
 - My environment
     - Erlang/OTP: 18.1
